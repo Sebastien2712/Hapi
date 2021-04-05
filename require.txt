@@ -1,0 +1,17 @@
+
+
+AVOIR Python XAMPP (POUR MYSQL) et POSTMAN
+
+1 pip install virtualenv en dehors de ton projet
+1.1 cd route de ton projet example cd Desktop/Api
+2 pip install flask
+2.1 pip install flask-mysql
+3 pip install pymysql
+4 pip install Flask-Ext
+5 pip install Werkzeug
+6 virtualenv flask
+  flask-> C'est le nom du virtualenv
+  Api-> C'est le nom du folder qui a le projet
+7 cd Api/flask/Scripts
+8 activate
+Pour desactiver le virtualenv avec le deactivate
